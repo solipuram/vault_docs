@@ -6,8 +6,8 @@ The approle auth method allows machines or apps to authenticate with Vault-defin
 
 - Go to Access --> select authentiction methods
 - select Enable New method.
-- <img src="a.jpg" alt="J" width="200"/>
-<img alt={"enable"} src = "/img/enable.png" style={{ borderRadius: "50%", maxWidth: "225px" textAlign: "center" }} />
+- <img src="/img/enable.jpg" alt="enable" />
+
 - select approle
 - provide the approle name as below
 <img alt={"nameofapprole" src="/img/nameofapprole.png" style={{ borderRadius: "50%", maxWidth: "225px", textAlign: "center", }}/>
