@@ -6,11 +6,11 @@ The approle auth method allows machines or apps to authenticate with Vault-defin
 
 - Go to Access --> select authentiction methods
 - select Enable New method.
-- <img src="/img/enable.jpg" alt="enable" />
+- <img src="/static/img/enable.jpg" alt="enable" />
 
 - select approle
 - provide the approle name as below
-- <img src="/img/nameofapprole.png" />
+- <img src="/static/img/nameofapprole.png" />
 
 - then enable
 
