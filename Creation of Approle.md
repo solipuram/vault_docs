@@ -10,7 +10,7 @@ The approle auth method allows machines or apps to authenticate with Vault-defin
 
 - select approle
 - provide the approle name as below
-<img alt={"nameofapprole" src="/img/nameofapprole.png" style={{ borderRadius: "50%", maxWidth: "225px", textAlign: "center", }}/>
+- <img src="/img/nameofapprole.png" style={{ borderRadius: "50%", maxWidth: "225px", textAlign: "center", }}/>
 
 - then enable
 
